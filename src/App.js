@@ -133,6 +133,7 @@ function App() {
             Updated on November 14th 2023. Powered by Sorbet Solutions. 🍧
           </div>
           <DataTable data={data} />
+          <br />
           <DataTable2 userSalespersonID={loggedInUserID} />
         </>
       )}
