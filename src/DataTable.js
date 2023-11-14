@@ -22,7 +22,7 @@ export default function DataTable() {
       // { Header: "Order Number", accessor: "Order Number" },
       { Header: "Customer Name", accessor: "Customer Name" },
       { Header: "Status", accessor: "Status" },
-      //  { Header: 'VIN', accessor: 'VIN'},
+      { Header: "VIN", accessor: "VIN" },
       { Header: "ETA From", accessor: "ETA From" },
       { Header: "ETA To", accessor: "ETA To" },
       { Header: "Year", accessor: "Model Year" },

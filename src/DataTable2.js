@@ -17,14 +17,17 @@ export default function DataTable2() {
   const columns = useMemo(
     () => [
       { Header: "Deal Number", accessor: "deal" },
-      /*     { Header: "Status", accessor: "Status" },
-      { Header: "ETA From", accessor: "ETA From" },
-      { Header: "ETA To", accessor: "ETA To" },
-      { Header: "Year", accessor: "Model Year" },
-      { Header: "Model", accessor: "Model" },
-      { Header: "Suffix", accessor: "Suffix" },
-      { Header: "Colour", accessor: "Colour" },
-      */
+      { Header: "Date", accessor: "date" },
+      { Header: "Customer Name", accessor: "customer" },
+      { Header: "ETA To", accessor: "order" },
+      { Header: "Year", accessor: "year" },
+      { Header: "Model", accessor: "model" },
+      { Header: "Suffix", accessor: "suffix" },
+      { Header: "Colour", accessor: "colour" },
+      { Header: "Type", accessor: "type" },
+      { Header: "Salesperson", accessor: "salesperson" },
+      { Header: "FSM", accessor: "fsm" },
+      //  { Header: "Colour", accessor: "colour" },
     ],
     []
   );
