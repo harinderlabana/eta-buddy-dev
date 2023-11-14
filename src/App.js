@@ -134,6 +134,10 @@ function App() {
           </div>
           <DataTable data={data} />
           <br />
+          <h1 className="app-heading">orderBuddy</h1>
+          <div className="last-modified">
+            Updated on November 14th 2023. Powered by Sorbet Solutions. 🍧
+          </div>
           <DataTable2 userSalespersonID={loggedInUserID} />
         </>
       )}
