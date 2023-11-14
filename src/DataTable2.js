@@ -3,16 +3,20 @@ import { useTable } from "react-table";
 import { fetchCSVData2 } from "./data2";
 import "./DataTable.css"; // Import the custom CSS file
 
-export default function DataTable2() {
+export default function DataTable2({ userSalespersonID }) {
   const [data, setData] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
       const csvData = await fetchCSVData2();
-      setData(csvData);
+      // Filter data based on the user's salesperson ID
+      const filteredData = csvData.filter(
+        (row) => row.salesperson === userSalespersonID
+      );
+      setData(filteredData);
     };
     fetchData();
-  }, []);
+  }, [userSalespersonID]);
 
   const columns = useMemo(
     () => [
@@ -27,9 +31,8 @@ export default function DataTable2() {
       { Header: "Type", accessor: "type" },
       { Header: "Salesperson", accessor: "salesperson" },
       { Header: "FSM", accessor: "fsm" },
-      //  { Header: "Colour", accessor: "colour" },
     ],
-    []
+    [userSalespersonID] // Include userSalespersonID in dependencies
   );
 
   const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =

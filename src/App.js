@@ -18,6 +18,7 @@ function App() {
   const [startTime, setStartTime] = useState(null);
   const [data, setData] = useState([]);
   const [data2, setData2] = useState([]);
+  const [loggedInUserID, setLoggedInUserID] = useState(null);
 
   useEffect(() => {
     initGA(); // Initialize Google Analytics
@@ -114,6 +115,7 @@ function App() {
 
     if (userProfile) {
       setIsLoggedIn(true);
+      setLoggedInUserID(userProfile.ID); // Set the logged-in user's ID
       logEvent("User", "Login"); // Log the login event
     } else {
       alert("Invalid credentials. Please try again.");
@@ -131,7 +133,7 @@ function App() {
             Updated on November 14th 2023. Powered by Sorbet Solutions. 🍧
           </div>
           <DataTable data={data} />
-          <DataTable2 data={data2} />
+          <DataTable2 userSalespersonID={loggedInUserID} />
         </>
       )}
     </div>
