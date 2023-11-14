@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eta-buddy-dev/static/css/main.0490796c.css",
-    "main.js": "/eta-buddy-dev/static/js/main.ea76cc7f.js",
+    "main.js": "/eta-buddy-dev/static/js/main.c04ba119.js",
     "static/js/787.eecba600.chunk.js": "/eta-buddy-dev/static/js/787.eecba600.chunk.js",
     "index.html": "/eta-buddy-dev/index.html",
     "main.0490796c.css.map": "/eta-buddy-dev/static/css/main.0490796c.css.map",
-    "main.ea76cc7f.js.map": "/eta-buddy-dev/static/js/main.ea76cc7f.js.map",
+    "main.c04ba119.js.map": "/eta-buddy-dev/static/js/main.c04ba119.js.map",
     "787.eecba600.chunk.js.map": "/eta-buddy-dev/static/js/787.eecba600.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0490796c.css",
-    "static/js/main.ea76cc7f.js"
+    "static/js/main.c04ba119.js"
   ]
 }
