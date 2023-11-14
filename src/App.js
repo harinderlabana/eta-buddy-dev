@@ -1,0 +1,141 @@
+import React, { useState, useEffect } from "react";
+import Login from "./Login";
+import DataTable from "./DataTable";
+import DataTable2 from "./DataTable2";
+import { fetchCSVData } from "./data";
+import { fetchCSVData2 } from "./data2";
+import "./App.css";
+import {
+  initGA,
+  logPageView,
+  logEvent,
+  trackDailyVisits,
+  trackUsageTime,
+} from "./analytics"; // Import the Google Analytics functions
+
+function App() {
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [startTime, setStartTime] = useState(null);
+  const [data, setData] = useState([]);
+  const [data2, setData2] = useState([]);
+
+  useEffect(() => {
+    initGA(); // Initialize Google Analytics
+    logPageView(); // Log the initial page view
+    trackDailyVisits(); // Track the daily visit
+    setStartTime(new Date()); // Set the start time for usage time tracking
+    // Fetch data from the first CSV file
+    fetchCSVData().then((result) => setData(result));
+
+    // Fetch data from the second CSV file
+    fetchCSVData2().then((result) => setData2(result));
+  }, []);
+
+  const userProfiles = [
+    {
+      username: "sunny.labana@redhilltoyota.ca",
+      password: "slabana007",
+      firstName: "Sunny",
+      lastName: "Labana",
+      position: "Sales Manager",
+      ID: "SL",
+    },
+    {
+      username: "darcy.gerrior@redhilltoyota.ca",
+      password: "Password1",
+      firstName: "Darcy",
+      lastName: "Gerrior",
+      position: "Sales Person",
+      ID: "DG",
+    },
+    {
+      username: "eunice.gallo@redhilltoyota.ca",
+      password: "egallo002",
+      firstName: "Eunice",
+      lastName: "Gallo",
+      position: "Sales Person",
+      ID: "EG",
+    },
+    {
+      username: "dave.bhogal@redhilltoyota.ca",
+      password: "dbhogal003",
+      firstName: "Dave",
+      lastName: "Bhogal",
+      position: "Sales Person",
+      ID: "DB",
+    },
+    {
+      username: "dan.petrie@redhilltoyota.ca",
+      password: "dpetrie004",
+      firstName: "Dan",
+      lastName: "Petrie",
+      position: "Sales Person",
+      ID: "DP",
+    },
+    {
+      username: "rick.neufeld@upperjamestoyota.ca",
+      password: "rneufeld005",
+      firstName: "Rick",
+      lastName: "Neufeld",
+      position: "Sales Person",
+      ID: "RN",
+    },
+    {
+      username: "kristian.carbone@redhilltoyota.ca",
+      password: "kcarbone006",
+      firstName: "Kristian",
+      lastName: "Carbone",
+      position: "Sales Person",
+      ID: "KC",
+    },
+    {
+      username: "marco.perrelli@redhilltoyota.ca",
+      password: "mperrelli009",
+      firstName: "Marco",
+      lastName: "Perrelli",
+      position: "Sales Person",
+      ID: "MP",
+    },
+    {
+      username: "saman.ahmed@redhilltoyota.ca",
+      password: "sahmed007",
+      firstName: "Saman",
+      lastName: "Ahmed",
+      position: "Sales Person",
+      ID: "SA",
+    },
+  ];
+
+  const handleLogin = (username, password) => {
+    const userProfile = userProfiles.find(
+      (profile) =>
+        profile.username === username && profile.password === password
+    );
+
+    if (userProfile) {
+      setIsLoggedIn(true);
+      logEvent("User", "Login"); // Log the login event
+    } else {
+      alert("Invalid credentials. Please try again.");
+    }
+  };
+
+  return (
+    <div className="app-container">
+      {!isLoggedIn ? (
+        <Login onLogin={handleLogin} />
+      ) : (
+        <>
+          <h1 className="app-heading">etaBuddy</h1>
+          <div className="last-modified">
+            Updated on November 14th 2023. Powered by Sorbet Solutions. 🍧
+          </div>
+          <DataTable data={data} />
+          <DataTable2 data={data2} />
+        </>
+      )}
+    </div>
+  );
+}
+
+export default App;
