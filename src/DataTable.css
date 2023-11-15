@@ -51,6 +51,14 @@ tbody tr {
   margin-top: 10px;
 }
 
+.fixed-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #fff; /* You can adjust the background color */
+  z-index: 1; /* Ensure it's on top of other elements */
+}
+
 /* Responsive Styles */
 @media (max-width: 768px) {
   .search-input {

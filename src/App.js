@@ -25,11 +25,8 @@ function App() {
     logPageView(); // Log the initial page view
     trackDailyVisits(); // Track the daily visit
     setStartTime(new Date()); // Set the start time for usage time tracking
-    // Fetch data from the first CSV file
-    fetchCSVData().then((result) => setData(result));
-
-    // Fetch data from the second CSV file
-    fetchCSVData2().then((result) => setData2(result));
+    fetchCSVData().then((result) => setData(result)); // Fetch data from the first CSV file
+    fetchCSVData2().then((result) => setData2(result)); // Fetch data from the second CSV file
   }, []);
 
   const userProfiles = [
