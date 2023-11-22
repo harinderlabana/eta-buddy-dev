@@ -29,7 +29,7 @@ export default function DataTable2({ userSalespersonID }) {
       { Header: "Suffix", accessor: "suffix" },
       { Header: "Colour", accessor: "colour" },
       { Header: "Type", accessor: "type" },
-      //      { Header: "Salesperson", accessor: "salesperson" },
+      // { Header: "Salesperson", accessor: "salesperson" },
       { Header: "FSM", accessor: "fsm" },
     ],
     [userSalespersonID] // Include userSalespersonID in dependencies
