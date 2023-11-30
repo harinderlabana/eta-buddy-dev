@@ -102,6 +102,14 @@ function App() {
       position: "Sales Person",
       ID: "SA",
     },
+    {
+      username: "johnny.giannini@redhilltoyota.ca",
+      password: "jgiannini008",
+      firstName: "Johnny",
+      lastName: "Giannini",
+      position: "Sales Person",
+      ID: "JG",
+    },
   ];
 
   const handleLogin = (username, password) => {
@@ -127,13 +135,13 @@ function App() {
         <>
           <h1 className="app-heading">etaBuddy</h1>
           <div className="last-modified">
-            Updated on November 28th 2023. Powered by Sorbet Solutions. 🍧
+            Updated on November 30th 2023. Powered by Sorbet Solutions. 🍧
           </div>
           <DataTable data={data} />
           <br />
           <h1 className="app-heading">orderBuddy</h1>
           <div className="last-modified">
-            Updated on November 28th 2023. Powered by Sorbet Solutions. 🍧
+            Updated on November 30th 2023. Powered by Sorbet Solutions. 🍧
           </div>
           <DataTable2 userSalespersonID={loggedInUserID} />
           <br />
