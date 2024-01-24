@@ -31,6 +31,7 @@ export default function DataTable2({ userSalespersonID }) {
       { Header: "Type", accessor: "type" },
       // { Header: "Salesperson", accessor: "salesperson" },
       { Header: "FSM", accessor: "fsm" },
+      { Header: "Filled", accessor: "filled" },
     ],
     [userSalespersonID] // Include userSalespersonID in dependencies
   );
