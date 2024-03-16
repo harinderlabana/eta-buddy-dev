@@ -237,7 +237,6 @@
 "111729","10/20/2023","David Belbel","SO1212461","2024","B4RBSC","AM","Silver",,"CASH","SA","DT","0","VERIFIED (Docket, Deal and Order)",
 "111735","10/20/2023","Fresh Investments LTD","SO1295284","2024","LC5LNA","HA","Bronze",,"CASH","DB","DT","0","VERIFIED (Docket, Deal and Order)",
 "111744","10/21/2023","Carolynn Bucek","SO1213713","2024","RWRFVC","BM","Blueprint","12 Matrix","CASH","KC","AM","0","VERIFIED (Docket, Deal and Order)",
-"111601","10/21/2023","Ahmat Haliki Touka","24338","2024","GGHABA","AM","Silver",,"FIN","DP","AM","1","LANDED","FILLED"
 "111774","10/21/2023","Stephen Marshall","SO1214125","2024","FBACGC","AM","Black",,"CASH","EG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "111783","10/23/2023","Sami Bangash","SO1215484","2024","RWRFVC","BD","Red",,"FIN","H","AM","0","VERIFIED (Docket, Deal and Order)",
 "111792","10/23/2023","KYLE HAILS","SO1215896","2024","B4RBXC","A","BLACK",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)",
@@ -305,7 +304,7 @@
 "112791","12/12/2023","Retex Textiles INC","SO1266104","2024","JA5DBT","AB","WHITE",,"LEASE","DG","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "112804","12/13/2023","John Ith","SO1267227","2024","SWRFVC","AM","Grey",,"FIN","DP","AM","0","VERIFIED (Docket, Deal and Order)",
 "112805","12/14/2023","Izabela Gorska","SO1267436","2024","B1RFVT","AM","Silver",,"CASH","EG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"112717","12/14/2023","Fernanda Warnock","SO1267850","2024","BPRBLC","AM","Blueprint",,"FIN","DP","DT","0","VERIFIED (Docket, Deal and Order)",
+"112717","12/14/2023","Fernanda Warnock","SO1354914","2024","BPRBLC","AM","Black",,"FIN","DP","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "112813","12/14/2023","Saleem Parez","SO1267883","2024","JRKE1C","AL","Silver",,"FIN","DB","DT","0","VERIFIED (Docket, Deal and Order)",
 "112823","12/15/2023","Deborah Carr","SO1269498","2024","ACABUC","AM","Blue",,"CASH","H","DT","0","VERIFIED (Docket, Deal and Order)",
 "112840","12/15/2023","Junaid Malik","SO1269085","2024","BCMHEC","AB","White",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)",
@@ -350,7 +349,6 @@
 "113227","1/10/2024","Summerbury Inc","SO1290444","2024","DGHADA","AP","Blueprint",,"LEASE","MP","AM","0","VERIFIED (Docket, Deal and Order)",
 "113236","1/11/2024","Melanie Haslam","SO1290998","2024","LGHABA","AG","White",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "113246","1/11/2024","Sunjeet Emrith","SO1291249","2024","RWRFVC","BM","Blueprint",,"LEASE","SA","DT","0","VERIFIED (Docket, Deal and Order)",
-"113252","1/12/2024","Ariel Plata","SO1291534","2024","BCMHEC","AB","Black",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)",
 "113275","1/12/2024","Farhad Karambakhsh","SO1291896","2024","WLCAJA","SG","Trail Dust",,"LEASE","H","DT","0","VERIFIED (Docket, Deal and Order)",
 "113285","1/13/2024","Mohtasem Sakin","SO1292165","2024","GBRCHC","AM","Black",,"FIN","SA","AM","0","VERIFIED (Docket, Deal and Order)",
 "113296","1/13/2024","Wusan Da","SO1292318","2024","JRKE1C","AL","Silver",,"CASH","DP","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -423,10 +421,10 @@
 "113982","2/15/2024","Mason Murphy","SO1326883","2024","GGHABA","AM","Silver",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "113984","2/15/2024","Romesh Kothari","SO1327240","2024","RWRFVC","BD","White",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)",
 "113986","2/15/2024","Compudigm","SO1327275","2024","LZRBHT","AM","Silver",,"LEASE","MP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"113991","2/15/2024","Manishkumar Patel","SO1327411","2024","R1RFVT","AM","Blueprint",,"LEASE","DG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"113991","2/15/2024","Manishkumar Patel","24363","2024","R1RFVT","AM","Blueprint",,"LEASE","DG","AM","1","LANDED","FILLED"
 "113994","2/15/2024","Pavel Hulnmitski","SO1327441","2024","B1RFVT","AM","Black",,"CASH","SA","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114033","2/17/2024","Sophoeuth Yoeun","SO1328999","2024","R1RFVT","BD","White",,"FIN","DG","DT","0","VERIFIED (Docket, Deal and Order)",
-"114036","2/17/2024","Adam Kakulak","SO1329068","2024","BPRBLC","AM","Black",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"114036","2/17/2024","Adam Kakulak","SO1329068","2024","BPRBLC","AM","Black",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)",
 "114050","2/17/2024","Xiaojie Feng","SO1329319","2024","DGHADA","AO","Storm Cloud",,"CASG","GZ","DT","0","VERIFIED (Docket, Deal and Order)",
 "114072","2/20/2024","Collince Adomah","SO1331367","2024","R1RFVT","AM","Black",,"FIN","MP","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114082","2/20/2024","Eshrak AL-Materi","SO1331799","2024","AAABGC","AC","White",,"FIN","KC","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
@@ -452,6 +450,7 @@
 "114272","2/29/2024","Jeannie Watts","SO1340736","2024","DWRFVC","AM","Black",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "114307","2/29/2024","William Kowall","SO1340968","2024","B4RBSC","BM","Silver",,"LEASE","MP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114358","3/1/2024","Baryalai Ehsaas","SO1341877","2024","RWRFVC","AM","White",,"FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
+"114336","3/1/2024","Min Wang","SO1341458","2024","R1RFVT","BM","Blueprint",,"CASH","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
 "114368","3/2/2024","Fadi Asi","SO1342384","2024","BPRBLC","BM","Black",,"LEASE","DB","DT","0","VERIFIED (Docket, Deal and Order)",
 "114181","3/2/2024","Paige Baikie","SO1342450","2024","J1RFVT","AA","Army Green",,"FIN","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "114369","3/2/2024","Sarah Daigle","SO1353274","2024","R1RFVT","BD","Red",,"CASH","JG","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
@@ -487,3 +486,6 @@
 "114668","3/14/2024","Marianna Napoleone","SO1354539","2024","G11AKT","AM","Pre Dawn",,"CASH","DP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114671","3/14/2024","Michaele Fuchs","SO1354693","2024","GRKE2C","AL","Blueprint",,"FIN","DG","AM","0","VERIFIED (Docket, Deal and Order)",
 "114673","3/14/2024","Mathew Lymburner","SO1354803","2024","G11AKT","BM","Black",,"FIN","DP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"114543","3/14/2024","14199723 Canada Inc/Ahmed Azeem Marecan","SO1354887","2024","DGHADA","AP","Blueprint",,"FIN","EG","AM","0","VERIFIED (Docket, Deal and Order)",
+"114693","3/15/2024","Kingswheel Rental Ltd","SO1355718","2024","B1RFVT","AM","White",,"FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
+"114695","3/15/2024","Kingswheel Rental Ltd","SO1355770","2024","BPRBLC","AM","White",,"FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
