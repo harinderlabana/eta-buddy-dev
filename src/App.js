@@ -79,14 +79,6 @@ function App() {
       ID: "RN",
     },
     {
-      username: "kristian.carbone@redhilltoyota.ca",
-      password: "kcarbone006",
-      firstName: "Kristian",
-      lastName: "Carbone",
-      position: "Sales Person",
-      ID: "KC",
-    },
-    {
       username: "marco.perrelli@redhilltoyota.ca",
       password: "mperrelli009",
       firstName: "Marco",
@@ -149,7 +141,7 @@ function App() {
           <br />
           <h1 className="app-heading">orderBuddy</h1>
           <div className="last-modified">
-            Updated on April 2nd 2024. Powered by Sorbet Solutions. 🍧
+            Updated on April 2 2024. Powered by Sorbet Solutions. 🍧
           </div>
           <DataTable2 userSalespersonID={loggedInUserID} />
           <br />
