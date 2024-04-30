@@ -1,6 +1,5 @@
 "deal","date","customer","order","year","model","suffix","colour","trade","type","salesperson","fsm","landed","docket","filled"
 "100739","9/21/2022","Jeff Remple","SO1169624","2024","JRKE3C","BC","Blueprint",,"FIN","RN","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"100866","5/30/2022","Rohullah Rohullah","24475","2024","JRKE4C","AV","Black",,"CASH","MP","DT","1","LANDED","FILLED"
 "102038","6/29/2022","Dean Spencer","SO1169614","2024","JRKE3C","BC","Blueprint",,"CASH","RN","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "102583","8/2/2022","Bambang Widiatmo","SO1218107","2024","ZNBE6M","AM","Blue",,"FIN","H","DT","0","VERIFIED (Docket, Deal and Order)",
 "102687","8/9/2022","Liu Hu","SO663568","2023","RWRFVC","AM","GREY",,"FIN","DB","DT","0","VERIFIED (Docket, Deal and Order)",
@@ -40,12 +39,10 @@
 "107416","4/15/2023","Aleena Maclean","SO1169788","2024","ADAAUC","AM","Blue","Yaris","FIN","DG","DT","0","VERIFIED (Docket, Deal and Order)",
 "107419","4/15/2023","Samir Ahmadov","SO1169790","2024","JRKE1C","AL","Silver",,"FIN","DG","DT","0","VERIFIED (Docket, Deal and Order)",
 "105912","4/18/2023","Alexis Radonicich","SO1169799","2024","ACABUC","AA","White",,"FIN","EG","DT","0","VERIFIED (Docket, Deal and Order)",
-"107525","4/20/2023","Mohammad Abuelhaija","SO1353157","2024","DBRCHC","BC","White",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "107586","4/22/2023","Richard Hendricks","SO1087170","2023","ACAAUC","AA","SILVER",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "107112","4/28/2023","Kristal Sananikone","SO1200652","2024","DBRCHC","BM","Blueprint",,"CASH","H","AM","0","VERIFIED (Docket, Deal and Order)",
 "107875","5/3/2023","HARPRAKASH AGNIHOTRI","SO1169805","2024","JRKE1C","AL","WHITE",,"FIN","DG","AM","0","VERIFIED (Docket, Deal and Order)",
 "107886","5/3/2023","Andrew Turner","SO978361","2024","DB0D0M","BM","White",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)",
-"107911","5/4/2023","Eric Franco","SO1165009","2024","BYYLGT","AM","GREY",,"FIN","DG","DT","0","VERIFIED (Docket, Deal and Order)",
 "108026","5/10/2023","Derek Sardo","SO1159614","2024","BYYLGT","AM","BLACK",,"LEASE","SS","AM","0","VERIFIED (Docket, Deal and Order)",
 "108043","5/10/2023","Thomas Barefoot","SO1001694","2024","BSMHEC","AA","Blueprint",,"FIN","H","DT","0","VERIFIED (Docket, Deal and Order)",
 "108027","5/10/2023","Stephen Jacobs","SO1169811","2024","ACAAUC","AM","Silver",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -75,7 +72,6 @@
 "108703","6/5/2023","Ebelechukwu Nwaizu","SO1170013","2024","GRKE2C","AL","GREY",,"FIN","DG","AM","0","VERIFIED (Docket, Deal and Order)",
 "108745","6/5/2023","Sabrinder Singh","SO1285201","2024","BCMHEC","AB","WHITE",,"FIN","DB","DT","0","VERIFIED (Docket, Deal and Order)",
 "108805","6/8/2023","Thang Trinh","SO1169892","2024","JRK4EC","AL","Black",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
-"108800","6/8/2023","Erin Lipsitt","SO1368766","2024","RWRFVC","BD","White",,"FIN","DG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "108832","6/9/2023","Asif Amin","SO1169740","2024","XWRFVC","BM","Grey",,"CASH","H","AM","0","SHIPPER - DO NOT DELIVER",
 "109019","6/15/2023","Ahmad Ahmadi","SO1170093","2024","BBRCHC","AM","Grey",,"LEASE","H","DT","0","VERIFIED (Docket, Deal and Order)",
 "109027","6/17/2023","Brett Tillotson","SO1037405","2024","BSMHEC","AM","Underground",,"FIN","EG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
@@ -83,7 +79,6 @@
 "109096","6/19/2023","Nicole Bryant","SO1169980","2024","GB4FVT","BH","Black",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "109108","6/19/2023","Ana Quijano Rojas","SO1170031","2024","GRKE1C","AL","Silver",,"LEASE","MP","DT","0","VERIFIED (Docket, Deal and Order)",
 "109103","6/20/2023","Joan Baker","SO1037404","2024","BSMHEC","AM","Celestite",,"CASH","MP","DT","0","VERIFIED (Docket, Deal and Order)",
-"109035","6/21/2023","Vikes Aggarwal","24401","2024","LGHACC","AM","Black",,"FIN","H","DT","1","LANDED","FILLED"
 "109182","6/23/2023","Niju Skariah","SO1169800","2024","XWRFVC","AM","Blue",,"LEASE","H","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "109286","6/28/2023","Jivitesh Chawla","SO994715","2024","LGHACC","AG","White",,"FIN","H","AM","0","VERIFIED (Docket, Deal and Order)",
 "109289","6/28/2023","Fadi Hamed","SO994957","2024","BSMHEC","AM","Underground",,"FIN","DP","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -108,7 +103,7 @@
 "109742","7/20/2023","Hassan Bhatti","SO1169910","2024","GRKE1C","AL","Black",,"CASH","MP","AM","0","VERIFIED (Docket, Deal and Order)",
 "109769","7/21/2023","Katelyn Dalinchan","SO1170096","2024","DBRCHC","BC","White",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "109829","7/25/2023","Phuong Do","SO1169922","2024","GRKE1C","AL","Silver",,"FIN","SA","AM","0","VERIFIED (Docket, Deal and Order)",
-"109843","7/25/2023","Phuong Do","SO1032155","2024","BCMHEC","AB","Black",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"109843","7/25/2023","Phuong Do","24489","2024","BCMHEC","AB","Black",,"FIN","SA","DT","1","LANDED","FILLED"
 "108324","7/26/2023","Nitish Arya","SO1033395","2024","GGHACC","AM","Black",,"FIN","SB","AM","0","VERIFIED (Docket, Deal and Order)",
 "109590","7/27/2023","Catherine Reid","SO1169925","2024","ACAAUC","AM","Black",,"FIN","DB","AM","0","VERIFIED (Docket, Deal and Order)",
 "109922","7/29/2023","Smruit Mistry","SO1036645","2024","DGHADA","AM","Black",,"FIN","EG","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -116,7 +111,6 @@
 "110035","8/4/2023","Daria Koralewska","SO1170104","2024","DBRCHC","AC","White",,"CASH","H","AM","0","VERIFIED (Docket, Deal and Order)",
 "110066","8/5/2023","Sara Mostafaei","SO1050780","2024","DGHADA","AM","Blueprint","2018 4Runner","FIN","DP","AM","0","VERIFIED (Docket, Deal and Order)",
 "110084","8/8/2023","Sukhpal Singh","SO1054643","2024","BPRBLC","AM","White",,"FIN","SA","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"110171","8/10/2023","Gary Fralick","24426","2024","B21HST","BM","White",,"CASH","MP","AM","1","LANDED","FILLED"
 "110188","8/11/2023","Gerald Nason","SO1102767","2024","BSMHEC","AM","Silver",,"CASH","DP","DT","0","VERIFIED (Docket, Deal and Order)",
 "109919","8/12/2023","Kevin Dunphy","SO1077186","2024","BSMHEC","AM","Underground",,"FIN","DP","AM","0","VERIFIED (Docket, Deal and Order)",
 "110220","8/12/2023","John Dawson","SO1077179","2024","BPRBLC","BM","White",,"FIN","H","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
@@ -132,7 +126,6 @@
 "110433","8/22/2023","Joseph Jobson","SO1101059","2024","BCMHEC","AM","WHITE",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "110447","8/23/2023","Waqar Javed","SO1102216","2024","GRKE2C","AL","Black",,"FIN","DB","DT","0","VERIFIED (Docket, Deal and Order)",
 "110459","8/24/2023","Christopher Mathieson","SO1103677","2024","GB3FVT","AM","Black",,"CASH","MP","AM","0","VERIFIED (Docket, Deal and Order)",
-"109733","8/26/2023","Walter Agostini","24484","2024","DWRFVC","AC","White","13 Venza","CASH","EG","AM","1","LANDED","FILLED"
 "110519","8/26/2023","Louis Olabalu","SO1108019","2024","BCMHEC","AB","Black",,"FIN","DG","AM","0","VERIFIED (Docket, Deal and Order)",
 "110535","8/28/2023","MEHRAN MALEK","SO1109897","2024","ACABUC","AM","BLUE",,"LEASE","EG","AM","0","VERIFIED (Docket, Deal and Order)",
 "110564","8/30/2023","Patrick Riganelli","SO1114532","2024","BYYCGT","CM","Black",,"CASH","DB","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -156,7 +149,6 @@
 "111070","9/21/2023","Stephen Dunn","SO1173192","2024","GBRCHC","AM","Blueprint",,"FIN","MP","Dt","0","VERIFIED (Docket, Deal and Order)",
 "111103","9/23/2023","Bikramjit Bath","SO1175089","2024","BCMHEC","AB","Celestite",,"FIN","SA","AM","0","VERIFIED (Docket, Deal and Order)",
 "111105","9/23/2023","Jomon Mathew","SO1175099","2024","DGHADA","AM","Blueprint",,"FIN","DG","AM","0","VERIFIED (Docket, Deal and Order)",
-"111127","9/23/2023","Thomas Mathew","24487","2024","LGHACC","AM","Storm Cloud",,"FIN","H","AM","1","LANDED","FILLED"
 "111128","9/23/2023","Neeraj Sehgal","SO1175330","2024","JRKE4C","AL","Pre dawn",,"CASH","EG","AM","0","VERIFIED (Docket, Deal and Order)",
 "111072","9/25/2023","Mario Federici","SO1177510","2024","GGHACC","A","BLUEPRINT",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "111281","9/29/2023","Puneet Dhanda","SO1187583","2024","GGHACC","AM","Black",,"FIN","DP","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
@@ -165,12 +157,11 @@
 "111198","10/2/2023","Sunil Ahuja","SO1188802","2024","BWRFVC","AM","Grey",,"CASH","H","DT","0","VERIFIED (Docket, Deal and Order)",
 "111348","10/3/2023","Anthony Jimmy","SO1190061","2024","DBRCHC","BM","Black",,"FIN","H","AM","0","VERIFIED (Docket, Deal and Order)",
 "111351","10/3/2023","John Riewald","SO1190196","2024","LA5DAT","CM","White",,"FIN","MP","AM","0","VERIFIED (Docket, Deal and Order)",
-"111345","10/3/2023","Harbinder Mann Veterinary","SO1241778","2024","DGHADA","AM","Black",,"CASH","DB","AM","0","VERIFIED (Docket, Deal and Order)",
 "111387","10/4/2023","Skyline Construction","SO1192933","2024","LGHACC","AG","White",,"CASH","EG","AM","0","VERIFIED (Docket, Deal and Order)",
 "111414","10/6/2023","Reznichenko Petro","SO1195355","2024","BWRFVC","AM","White",,"CASH","SA","DT","0","VERIFIED (Docket, Deal and Order)",
 "111423","10/7/2023","Pravinsinu Gohil","SO1196451","2024","JRKE1C","AL","Silver",,"LEASE","DB","AM","0","VERIFIED (Docket, Deal and Order)",
 "111433","10/7/2023","Sanjeev Gosain","SO1196714","2024","DBRCHC","BM","Blueprint",,"CASH","EG","AM","0","VERIFIED (Docket, Deal and Order)",
-"111436","10/7/2023","MD Touhid","SO1196814","2024","BCMFEC","AB","Silver",,"LEASE","DP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"111436","10/7/2023","MD Touhid","24490","2024","BCMFEC","AB","Silver",,"LEASE","DP","AM","1","LANDED","FILLED"
 "111446","10/10/2023","Jesse Beaudin","SO1197513","2024","ZNBM6M","AM","White",,"CASH","H","SL","0","VERIFIED (Docket, Deal and Order)",
 "111472","10/10/2023","Abdullah Sinjari","SO1199614","2024","JRKE4C","AV","Bronze",,"FIN","DB","AM","0","VERIFIED (Docket, Deal and Order)",
 "111481","10/11/2023","David Teare","SO1200293","2024","GRKE2C","AL","Grey",,"CASH","DB","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -213,7 +204,7 @@
 "112061","11/6/2023","Guriqbal Singh","SO1292256","2024","DGHADA","AP","Coastal Cream",,"LEASE","DB","DT","0","VERIFIED (Docket, Deal and Order)",
 "112094","11/6/2023","FAYEZ SHEIKH ALZOOR","SO1234298","2024","GRKE1C","AL","Silver",,"FIN","DB","AM","0","VERIFIED (Docket, Deal and Order)",
 "112100","11/8/2023","Shelly Rummo",,"2024","R1RFVT","AM","White",,"LEASE","MP","AM",,"Order in 2024 closer to lease end",
-"112105","11/8/2023","SHAUNA DEWOLFE","SO1233927","2024","R1RFVT","BM","BLACK",,"FIN","H","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"112105","11/8/2023","SHAUNA DEWOLFE","24511","2024","R1RFVT","BM","BLACK",,"FIN","H","DT","1","LANDED","FILLED"
 "112094","11/9/2023","Fayez Sheikh Alzoor","SO1234298","2024","GRKE1C","AL","Silver",,"CASH","DB","AM","0","VERIFIED (Docket, Deal and Order)",
 "112122","11/9/2023","MOHAMMAD SULTANI","SO1235059","2024","XWRFVC","BE","WHITE",,"FIN","DB","AM","0","VERIFIED (Docket, Deal and Order)",
 "112155","11/11/2023","My Truong","SO1236831","2024","BWRFVC","AM","Grey",,"CASH","H","DT","0","VERIFIED (Docket, Deal and Order)",
@@ -284,8 +275,8 @@
 "113329","1/16/2024","Derek D Olimpio","SO1294809","2024","XWRFVC","AM","Grey",,"CASH","SA","DT","0","VERIFIED (Docket, Deal and Order)",
 "113359","1/17/2024","O'Brien Lifting Solutions","SO1296536","2024","BU5JRA","EM","Blue","20 4Runner","LEASE","DP","DT","0","VERIFIED (Docket, Deal and Order)",
 "113378","1/18/2024","Ling Ling Hu","SO1297571","2024","GGHACC","AM","Silver",,"CASH","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
-"108280","1/19/2024","Nicholas Clark","SO1298818","2024","LB5JNA","EA","Underground",,"FIN","H","AM","0","VERIFIED (Docket, Deal and Order)",
-"113412","1/20/2024","Mathius D'Souza","SO1388106","2024","DGHADA","AM","Storm Cloud",,"FIN","DB","DT","0","VERIFIED (Docket, Deal and Order)",
+"108280","1/19/2024","Nicholas Clark","24500","2024","LB5JNA","EA","Underground",,"FIN","H","AM","1","LANDED",
+"113412","1/20/2024","Mathius D'Souza","SO1400587","2024","LGHACC","AM","Storm Cloud",,"FIN","DB","DT","0","VERIFIED (Docket, Deal and Order)",
 "113417","1/20/2024","Pirtpal","SO1299418","2024","BCMFEC","AB","White",,"FIN","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "113439","1/22/2024","Hui Chen","SO1300784","2024","BPRBEC","AM","Celestite",,"CASH","DP","DT","0","VERIFIED (Docket, Deal and Order)",
 "113459","1/23/2024","Mhran Midia","SO1302614","2024","BU5JRA","CM","White",,"FIN","EG","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -295,12 +286,11 @@
 "113570","1/29/2024","Karey Nelson","SO1309116","2024","BCMHEC","AB","Celestite",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)",
 "113574","1/29/2024","Karen Nelson","SO1309327","2024","GRKE1C","AL","Silver",,"CASH","EG","AM","0","VERIFIED (Docket, Deal and Order)",
 "113620","1/30/2024","2251761 Ontario/Garasia","SO1341626","2024","R1RFVT","AM","Blueprint",,"LEASE","EG","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"113612","1/30/2024","Alex Mackie","SO1310515","2024","CAABGC","AM","Silver",,"CASH","DG","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"113612","1/30/2024","Alex Mackie","24499","2024","CAABGC","AM","Silver",,"CASH","DG","DT","1","LANDED","FILLED"
 "113621","1/30/2024","2251761 Ontario/Garasia","SO1310508","2024","GB3FVT","AM","Silver",,"FIN","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "113610","1/30/2024","Sershen Govender","SO1310534","2024","WLCAJA","EM","Black",,"FIN","MP","DT","0","VERIFIED (Docket, Deal and Order)",
 "113622","1/30/2024","Simon Murray-Leung","SO1310966","2024","BCMHEC","AB","Celestite",,"FIN","SA","AM","0","VERIFIED (Docket, Deal and Order)",
 "113634","1/30/2024","Eduardo Marciano","SO1311112","2024","DBODOM","BA","Red",,"FIN","DG","AM","0","VERIFIED (Docket, Deal and Order)",
-"113638","1/31/2024","Darren Carney","24487","2024","R1RFVT","BM","Black",,"CASH","DB","AM","1","LANDED","FILLED"
 "113658","1/31/2024","Gul Haidary","SO1312056","2024","BSMHEC","AM","White",,"FIN","GZ","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "113683","2/1/2024","Jonathan Gudal","SO1312907","2024","LC5LNA","TC","White",,"CASH","DB","AM","0","VERIFIED (Docket, Deal and Order)",
 "113717","2/1/2024","Raj Teotia","SO1313856","2024","BPRBLC","AM","White",,"CASH","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -318,11 +308,10 @@
 "113977","2/15/2024","Mehran Malek","SO1326771","2024","LC5LNA","TA","Black",,"CASH","EG",,"0","VERIFIED (Docket, Deal and Order)",
 "113982","2/15/2024","Mason Murphy","SO1326883","2024","GGHABA","AM","Silver",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "113984","2/15/2024","Romesh Kothari","SO1327240","2024","RWRFVC","BD","White",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)",
-"113994","2/15/2024","Pavel Hulnmitski","24485","2024","B1RFVT","AM","Black",,"CASH","SA","AM","1","LANDED","FILLED"
 "114036","2/17/2024","Adam Kakulak","SO1329068","2024","BPRBLC","AM","Black",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)",
 "114050","2/17/2024","Xiaojie Feng","SO1329319","2024","DGHADA","AO","Storm Cloud",,"CASG","GZ","DT","0","VERIFIED (Docket, Deal and Order)",
 "114093","2/21/2024","David Poyton","SO1377291","2024","LB5JNA","FA","White","23 Tundra","FIN","MP","DT","0","VERIFIED (Docket, Deal and Order)",
-"114103","2/21/2024","Andrew Combly","SO1333166","2024","B1RFVT","AM","Silver",,"FIN","MP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"114103","2/21/2024","Lesa Combly","24501","2024","B1RFVT","AM","Silver",,"FIN","MP","AM","1","LANDED","FILLED"
 "114099","2/21/2024","Mark Hopman","SO1333213","2024","R1RFVT","BM","Black",,"FIN","DP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114110","2/21/2024","Lorraine Roberts","SO1333331","2024","DWRFVC","AM","Blueprint",,"CASH","JG","AM","0","VERIFIED (Docket, Deal and Order)",
 "114125","2/22/2024","Sean Milligan","SO1334196","2024","BCMHEC","AB","Silver",,"FIN","MP","DT","0","VERIFIED (Docket, Deal and Order)",
@@ -332,23 +321,21 @@
 "114203","2/24/2024","Dekate Trushenkumar","SO1336174","2024","DGHADA","AM","Storm Cloud",,"LEASE","DG","AM","0","VERIFIED (Docket, Deal and Order)",
 "114226","2/26/2024","Lianne Crawford","SO1337867","2024","CAAAGC","AM","Black",,"FIN","EG","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114247","2/27/2024","Hartaj Sidhu","SO1338457","2024","WLCAJA","EC","Trail Dust",,"FIN","MP","DT","0","VERIFIED (Docket, Deal and Order)",
-"114267","2/27/2024","Carrie MacMillan","SO1339262","2024","B1RFVT","AM","Grey",,"CASH","MP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"114265","2/27/2024","Muhammad Ali","24488","2024","BCMHEC","AB","White","23 Santa Fe","FIN","EG","AM","1","LANDED","FILLED"
+"114267","2/27/2024","Carrie MacMillan","24494","2024","B1RFVT","AM","Grey",,"CASH","MP","AM","1","LANDED","FILLED"
+"114265","2/27/2024","Muhammad Ali","24488","2024","BCMHEC","AB","White","23 Santa Fe","FIN","EG","AM","0","LANDED","FILLED"
 "114272","2/29/2024","Jeannie Watts","SO1340736","2024","DWRFVC","AM","Black",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "114307","2/29/2024","William Kowall","SO1340968","2024","B4RBSC","BM","Silver",,"LEASE","MP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114358","3/1/2024","Baryalai Ehsaas","SO1341877","2024","RWRFVC","AM","White",,"FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
 "114336","3/1/2024","Min Wang","SO1341458","2024","R1RFVT","BM","Blueprint",,"CASH","GZ","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114368","3/2/2024","Fadi Asi","SO1342384","2024","BPRBLC","BM","Black",,"LEASE","DB","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114372","3/2/2024","Ravikumar Patel","SO1342456","2024","BPRBLC","BM","Silver",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)",
-"114298","3/2/2024","Adam Stanekovic","SO1342567","2024","LB5JNM","BA","Underground",,"FIN","DP","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114386","3/2/2024","Jimmy Ortiz","SO1342626","2024","RWRFVC","BM","Blueprint",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)",
-"114401","3/4/2024","Jeremy Dolson","24477","2024","LB5JNA","DA","Black",,"FIN","DG","DT","1","LANDED","FILLED"
 "114408","3/4/2024","Deep Patel","SO1343858","2024","RWRFVC","AM","Silver",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "108719","3/4/2024","Sabrina Raha-Haars","SO1343968","2024","XWRFVC","BM","Grey",,"CASH","MP","AM","0","VERIFIED (Docket, Deal and Order)",
 "114429","3/5/2024","Tien Hoang","SO1344524","2024","XWRFVC","AW","White/Black",,"CASH","SA","DT","0","VERIFIED (Docket, Deal and Order)",
 "114458","3/6/2024","Janina Boczkaj","SO1346137","2024","BPRBLC","AM","Silver",,"FIN","EG","DT","0","VERIFIED (Docket, Deal and Order)",
 "114158","3/6/2024","Harrison Missal","SO1345730","2024","LB5JNA","BA","Underground",,"FIN","H","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"114532","3/9/2024","Ronald Bertrand","SO1349029","2024","R1RFVT","AM","Silver",,"CASH","JG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"114532","3/9/2024","Ronald Bertrand","24497","2024","R1RFVT","AM","Silver",,"CASH","JG","AM","1","LANDED","FILLED"
 "114560","3/9/2024","Frank Bickford","SO1349143","2024","BU5JRA","DM","White",,"CASH","SA","AM","0","VERIFIED (Docket, Deal and Order)",
 "114562","3/9/2024","Ying Sun",,"2024","AVENCC","AM","Coastal Grey",,"LEASE","GZ","AM",,,
 "114600","3/11/2024","Robert Ebbers","SO1353367","2024","WLCAJA","SG","Trail Dust",,"CASH","SA","DT","0","VERIFIED (Docket, Deal and Order)",
@@ -357,23 +344,21 @@
 "114657","3/13/2024","Zvjesdana Radotic","SO1357578","2024","R1RFVT","BM","Grey",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114660","3/14/2024","Mario Taddeo","SO1353973","2024","LB5JNA","AM","Silver",,"FIN","DB","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114668","3/14/2024","Marianna Napoleone","SO1354539","2024","G11AKT","AM","Pre Dawn",,"CASH","DP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"114671","3/14/2024","Michaele Fuchs","24466","2024","GRKE2C","AL","Silver",,"FIN","DG","AM","1","LANDED","FILLED"
 "114693","3/15/2024","Kingswheel Rental Ltd","SO1355718","2024","B1RFVT","AM","White",,"FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
 "114695","3/15/2024","Kingswheel Rental Ltd","SO1355770","2024","BPRBLC","AM","White",,"FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
 "114717","3/16/2024","Vishal Mishra","SO1356313","2024","LGHABA","AG","Red",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114757","3/18/2024","Thi Tran","SO1357976","2024","GZRBHT","AC","White",,"FIN","EG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114759","3/18/2024","Adeel Amjed","SO1366395","2024","B1RFVT","AM","Grey",,"CASH","DB","AM","0","VERIFIED (Docket, Deal and Order)",
-"114767","3/19/2024","Carol Wood","SO1358623","2024","R1RFVT","BD","White","18 Rav4","LEASE","MP","AM","1","LANDED","FILLED"
 "114762","3/19/2024","Mostafa Tehrani","SO1359476","2024","RWRFVC","AM","Black",,"FIN","H","DT","0","VERIFIED (Docket, Deal and Order)",
 "114795","3/20/2024","Inderjit Mangat","SO1359967","2024","LGHACC","AG","Whtie",,"CASH","MP","DT","0","VERIFIED (Docket, Deal and Order)",
-"114799","3/20/2024","Jaswant Grewal","SO1360200","2024","R1RFVT","BM","Silver",,"LEASE","MP","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"114799","3/20/2024","Jaswant Grewal","24495","2024","R1RFVT","BM","Silver",,"LEASE","MP","DT","1","LANDED","FILLED"
 "114809","3/20/2024","Heng Hai","SO1360637","2024","WLCAJA","EC","Blue","2023 Corolla","CASH","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
 "114834","3/21/2024","Robert Kulynych","SO1380163","2025","K4RBEC","BM","Silver",,"CASH","JG","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114837","3/21/2024","Jaydeep Jani","SO1361804","2024","R1RFVT","BM","Blueprint","18 CRV","LEASE","GZ","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114841","3/22/2024","Mouhammad Oso","SO1362175","2024","BCMHEC","AB","Celestite",,"FIN","DP","DT","0","VERIFIED (Docket, Deal and Order)",
 "114846","3/22/2024","Ling Ling Hu","SO1362263","2024","JRKE3C","BC","Cement",,"CASH","GZ","DT","0","VERIFIED (Docket, Deal and Order)",
 "114911","3/25/2024","Mark Simchison","SO1364834","2024","ACAAJC","BP","White",,"FIN","JG","AM","0","VERIFIED (Docket, Deal and Order)",
-"114917","3/25/2024","Kurt Rainhard","SO1365311","2024","AVENBC","AA","White",,"CASH","MP","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"114917","3/25/2024","Kurt Rainhard","24502","2024","AVENBC","AA","White",,"CASH","MP","DT","1","LANDED","FILLED"
 "114945","3/26/2024","Jacalyn Blore","SO1366637","2024","BPRBLC","AM","White",,"FIN","MP","AM","0","VERIFIED (Docket, Deal and Order)",
 "114966","3/27/2024","Danielle Saulnier","SO1367947","2024","CAABGC","BA","White",,"FIN","DB","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "114951","3/27/2024","Dominico Direnzo","SO1367091","2024","G11AKT","AM","Black","20 Corolla","LEASE","MP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
@@ -383,12 +368,10 @@
 "114977","3/27/2024","Shoaib Momand","SO1368191","2024","DWRFVC","AM","Grey",,"FIN","H","DT","0","VERIFIED (Docket, Deal and Order)",
 "114987","3/28/2024","Vijay Polamreddy","SO1368719","2024","ADAAUC","AM","Blue",,"CASH","DB","DT","0","VERIFIED (Docket, Deal and Order)",
 "114992","3/28/2024","Robert Whitesell","SO1368991","2024","DBADSC","BT","Heavy Metal/Blk",,"CASH","DP","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"114991","3/28/2024","Jojo Oliquiano","24482","2024","AAABGC","AC","White",,"LEASE","SA","AM","1","LANDED","FILLED"
 "114997","3/28/2024","Patricia Theriault","SO1369178","2024","D1RFVT","AM","Grey",,"FIN","JG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115005","3/30/2024","An Deng","SO1369501","2024","FBABGC","AM","Celestite",,"FIN","GZ","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115016","4/1/2024","Joyce Schneider","SO1370285","2024","DAABGC","AM","Silver",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115044","4/1/2024","Zhongming Ma","SO1370807","2024","JRKE1C","AL","White",,"FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
-"115050","4/1/2024","15914213 Canada Inc","24446","2024","R1RFVT","AM","White",,"LEASE","SA","AM","1","LANDED","FILLED"
 "115054","4/1/2024","Itunu Ogunjobi","SO1370980","2024","BZRBHT","AM","Grey",,"LEASE","DP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115055","4/1/2024","Luigi Cirillo","SO1370987","2024","RWRFVC","BD","White",,"CASH","MP","AM","0","VERIFIED (Docket, Deal and Order)",
 "115092","4/3/2024","Angelo Ferrelli","SO1372690","2024","WLCAJA","BA","Undergound",,"LEASE","MP","DT","0","VERIFIED (Docket, Deal and Order)",
@@ -405,24 +388,22 @@
 "115159","4/6/2024","Khald Faqiri","SO1375406","2024","DGHADA","AG","RED",,"FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
 "115161","4/6/2024","Pawan Sharma","SO1375470","2024","XWRFVC","BM","Blue/Black",,"FIN","DP","AM","0","VERIFIED (Docket, Deal and Order)",
 "115156","4/6/2024","Randolph Ambrosie","SO1377314","2024","LB5JNA","FA","Blue",,"LEASE","DG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"114999","4/6/2024","Jose Feleja Pachecho","SO1375545","2024","BSMHEC","AM","Underground",,"CASH","DP","AM","0","VERIFIED (Docket, Deal and Order)",
+"114999","4/6/2024","Jose Feleja Pachecho","SO1398646","2024","ACABUC","AM","Silver",,"CASH","DP","AM","0","VERIFIED (Docket, Deal and Order)",
 "115164","4/6/2024","2731611 Ontario Ltd/Mark Bravo","SO1375565","2024","LB5JNA","AM","Underground",,"FIN","DB","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115186","4/8/2024","Ciriaco Ventre","SO1376227","2024","R1RFVT","AM","Grey",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115138","4/8/2024","Ryan Olds","SO1377313","2024","LB5JNA","FB","White",,"CASH","SA","DT","0","VERIFIED (Docket, Deal and Order)",
 "115197","4/8/2024","Nicolas Forshaw","SO1376680","2024","LC5LNA","BA","Underground",,"CASH","MP","DT","0","VERIFIED (Docket, Deal and Order)",
-"115198","4/9/2024","Trimanpreet Singh","SO1377290","2024","R1RFVT","AM","Black",,"FIN","DB","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"115198","4/9/2024","Kamaljit Kaur","SO1399036","2024","R1RFVT","AM","Black",,"LEASE","DB","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115225","4/9/2024","Matthew Dycha","SO1377221","2024","XWRFVC","BE","White/Black",,"LEASE","MP","DT","0","VERIFIED (Docket, Deal and Order)",
 "115237","4/9/2024","Gurmit Sehgal","SO1377631","2024","BWRFVC","AM","White",,"CASH","DB","DT","0","VERIFIED (Docket, Deal and Order)",
 "115239","4/9/2024","Philip Beard","SO1377723","2024","WLCAJA","BC","Heritage Blue",,"CASH","MP","DT","0","VERIFIED (Docket, Deal and Order)",
 "115247","4/9/2024","Lemlem Abraham","SO1378124","2024","B1RFVT","AM","White",,"FIN","MP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115260","4/10/2024","Rachel Wiens","SO1379099","2024","AAAAGC","AL","Black",,"CASH","DB","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115219","4/10/2024","Amelia Fehrman","SO1379135","2024","R1RFVT","AM","White",,"FIN","DG","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
-"115292","4/11/2024","Daniel Petrie","24472","2024","BCMHEC","AM","Black",,"LEASE","H","AM","1","LANDED","FILLED"
 "115294","4/11/2024","Tana Wei","SO1380374","2024","JRKE3C","BC","Cement",,"FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
 "115295","4/11/2024","Maria Klippenstein","SO1380486","2024","DAABGC","AA","White",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115303","4/12/2024","Pasqualina Ruberto","SO1381370","2024","B1RFVT","AM","White",,"LEASE","GZ","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115308","4/12/2024","Alan Pryde","SO1381487","2024","XWRFVC","AM","Blue/Black Roof",,"CASH","DP","AM","0","VERIFIED (Docket, Deal and Order)",
-"115311","4/12/2024","Arash Noori","24479","2024","G11AKT","AM","Black",,"LEASE","SA","AM","1","LANDED","FILLED"
 "115321","4/13/2024","Hargurminder Grewal","SO1381920","2024","ACAAUC","AA","White",,"CASH","DB","AM","0","VERIFIED (Docket, Deal and Order)",
 "115334","4/13/2024","Doughuan Lin","24316","2024","NA5DBT","BN","Black","23 Q5","CASH","GZ","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115343","4/13/2024","GC Accounting Managment","SO1381994","2024","LGHACC","AG","White",,"FIN","JG","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -438,7 +419,7 @@
 "115412","4/17/2024","Margaret Leek","SO1386060","2024","BPRBLC","AM","Silver",,"LEASE","MP","DT","0","VERIFIED (Docket, Deal and Order)",
 "115419","4/17/2024","Dan Orescanin","SO1386361","2024","RWRFVC","BM","Grey",,"CASH","MP","DT","0","VERIFIED (Docket, Deal and Order)",
 "115429","4/17/2024","Asad Hasany","SO1387035","2024","BU5JRA","CM","Underground",,"LEASE","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
-"115427","4/17/2024","Ryan Curran","SO1388015","2024","JC5DBT","TN","White",,"CASH","DG","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"115427","4/17/2024","Ryan Curran","24491","2024","JC5DBT","TN","White",,"CASH","DG","AM","1","LANDED","FILLED"
 "115441","4/18/2024","Thomas Thompson","SO1387554","2024","J1RFVT","AA","Army Green",,"FIN","MP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115467","4/192024","Robert Lake","SO1388760","2024","RWRFVC","BM","Blueprint",,"CASH","JG","DT","0","VERIFIED (Docket, Deal and Order)",
 "115480","4/20/2024","Jenny Antolin","SO1389653","2024","B1RFVT","AM","Grey",,"LEASE","SA","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
@@ -457,7 +438,6 @@
 "115574","4/22/2024","Uvindu Abeynayake","SO1392356","2024","JRKE1C","AL","Silver",,"FIN","DG","DT","0","VERIFIED (Docket, Deal and Order)",
 "115576","4/22/2024","Larry Pearson","SO1392386","2024","G11AKT","BM","Silver","21 Camry","LEASE","MP","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115577","4/22/2024","Larry Pearson","SO1392393","2024","DAACKC","AM","Black",,"LEASE","MP","DT","0","VERIFIED (Docket, Deal and Order)",
-"115579","4/23/2024","Michael Greer","24347","2024","JA5DBT","AB","Red",,"CASH","DG","DT","1","LANDED","FILLED"
 "115584","4/23/2024","Vitas Gedrimas","SO1392838","2025","DBADKC","BG","Heavy Metal",,"CASH","DB","DT","0","VERIFIED (Docket, Deal and Order)",
 "115595","4/23/2024","John Rebellati","SO1393123","2024","R1RFVC","BD","White",,"LEASE","MP","DT","0","VERIFIED (Docket, Deal and Order)",
 "115599","4/23/2024","Ramoncito Odion","SO1393324","2024","WLCAJA","SG","Blue/Grey",,"FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -466,7 +446,6 @@
 "115611","4/23/2024","ATP Conveyor Manufacturing LTD","SO1393727","2024","DZRBHT","BC","White",,"FIN","DB","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115615","4/23/2024","Jeffrey Pennell","SO1393738","2024","DWRFVC","AG","White",,"FIN","MP","AM","0","VERIFIED (Docket, Deal and Order)",
 "115616","4/23/2024","Rajesh Jayakumar","SO1393762","2024","GB3FVT","AM","Silver",,"CASH","DB","AM","0","VERIFIED (Docket, Deal and Order)",
-"115618","4/24/2024","Christopher Mathieson","SO1393966","2024","CAABGC","AM","Red","19 Rav4","LEASE","MP","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
 "115622","4/24/2024","Bekir Karatas","SO1394151","2025","DAACKC","BM","Underground","22 Camry Hy","FIN","DP","AM","0","VERIFIED (Docket, Deal and Order)",
 "115624","4/24/2024","Carol Tait","SO1394193","2024","R1RFVT","AM","Black","14 Pathfinder","CASH","MP","AM","0","VERIFIED (Docket, Deal and Order)",
 "115629","4/24/2024","Azbuike Mbunabo","SO1394219","2024","LGHABA","AM","Black","21 Highlander","FIN","GZ","AM","0","VERIFIED (Docket, Deal and Order)",
@@ -481,5 +460,24 @@
 "114975","4/24/2024","Scott Clarke","SO1395041","2024","BPRBLC","AM","Celestite",,"CASH","DG","DT","0","VERIFIED (Docket, Deal and Order)",
 "115654","4/24/2024","Anupom Roy","SO1395046","2024","GBRCHC","AM","Silver",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)",
 "115657","4/24/2024","Vishal Mishra","SO1395080","2024","LGHACC","AG","RED",,"FIN","DB","DT","0","VERIFIED (Docket, Deal and Order)",
-"115648","4/24/2024","Emily Nixon","24331","2024","CWNAFP","AH","Heavy Metal",,"FIN","DG","DT","1","LANDED","FILLED"
 "115659","4/24/2024","Jeanette Giudici","SO1395087","2024","R1RFVT","AM","Silver",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
+"115666","4/25/2024","Tammy Van Der Burgt","SO1395830","2024","LZRBHT","AC","White",,"CASH","MP","DT","0","VERIFIED (Docket, Deal and Order)",
+"115678","4/25/2024","Muhammad Khan","SO1396251","2024","GRKE2C","AW","White",,"FIN","DP","AM","0","VERIFIED (Docket, Deal and Order)",
+"115700","4/26/2024","Van Le","SO1397442","2024","R1RFVT","AM","White",,"CASH","JG","AM","0","VERIFIED (Docket, Deal and Order)",
+"115707","4/26/2024","Han Pang Hsu","SO1397545","2024","CAABGC","AM","Red",,"CASH","GZ","AM","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"115711","4/27/2024","Tammy Sharkawi","SO1397892","2024","GZRBHT","AM","Grey","15 Highlander","FIN","EG","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"115715","4/27/2024","Chandra Mallu","SO1397809","2024","LGHACC","AG","White",,"CASH","SA","DT","0","VERIFIED (Docket, Deal and Order)",
+"115716","4/27/2024","Bill Klemp","SO1397868","2024","D1RFVT","AM","Silver",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
+"115721","4/27/2024","Jaykishan Shukla","SO1397919","2024","RWRFVC","BM","Grey",,"FIN","SA","DT","0","VERIFIED (Docket, Deal and Order)",
+"115725","4/27/2024","Anthony Rodrigues","SO1397963","2024","DBADSC","BK","Heavy Metal",,"CASH","EG","DT","0","VERIFIED (Docket, Deal and Order)",
+"115743","4/27/2024","1090648 Ontario LTD/Aaron Chuang","SO1398250","2024","ABAAEM","BM","Blue",,"CASH","DG","DT","0","VERIFIED (Docket, Deal and Order)",
+"115740","4/27/2024","Peter Londono Jimenez","SO1398228","2025","DBADSC","BN","Black",,"FIN","EG","DT","0","VERIFIED (Docket, Deal and Order)",
+"107911","4/27/2024","Eric Franco","24342","2024","JA5DBT","BM","Lunar Rock","17 4Runner","FIN","DG","DT","1","LANDED","FILLED"
+"115703","4/29/2024","Robert Jacques","SO1398826","2024","JA5DBT","BM","Black","2016 Ram","FIN","DP","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"115753","4/29/2024","Feng Zhu","SO1398892","2024","GGHABA","AG","White",,"CASH","GZ","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"115765","4/29/2024","Ried Home Renovations","SO1399129","2024","JA5DBT","AM","Grey",,"FIN","MP","DT","0","VERIFIED (Docket, Deal and Order)","FILLED"
+"115763","4/29/2024","Gordon Noble","SO1399172","2024","AAAAGC","AL","Silver",,"FIN","DP","DT","0","VERIFIED (Docket, Deal and Order)",
+"115770","4/29/2024","Thomas Muir","SO1399235","2024","RWRFVC","AM","Grey",,"FIN","MP","DT","0","VERIFIED (Docket, Deal and Order)",
+"115769","4/29/2024","Dale Pilgrim","SO1399269","2024","B1RFVT","AM","White",,"FIN","MP","DT","0","VERIFIED (Docket, Deal and Order)",
+"115785","4/29/2024","Temiloluwa Sodipo","SO1400145","2024","DZRBHT","BC","White",,"FIN","EG","DT","0","VERIFIED (Docket, Deal and Order)",
+"115794","4/30/2024","Paulina Gunter","SO1400252","2024","RWRFVC","BD","White","23 Highlander","LEASE","MP","AM","0","VERIFIED (Docket, Deal and Order)",
