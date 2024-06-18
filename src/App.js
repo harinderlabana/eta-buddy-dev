@@ -135,13 +135,13 @@ function App() {
         <>
           <h1 className="app-heading">etaBuddy</h1>
           <div className="last-modified">
-            Updated on June 12th 2024. Powered by Sorbet Solutions. 🍧
+            Updated on June 18th 2024. Powered by Sorbet Solutions. 🍧
           </div>
           <DataTable data={data} />
           <br />
           <h1 className="app-heading">orderBuddy</h1>
           <div className="last-modified">
-            Updated on June 12th 2024. Powered by Sorbet Solutions. 🍧
+            Updated on June 18th 2024. Powered by Sorbet Solutions. 🍧
           </div>
           <DataTable2 userSalespersonID={loggedInUserID} />
           <br />
