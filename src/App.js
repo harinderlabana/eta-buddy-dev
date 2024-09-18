@@ -71,14 +71,6 @@ function App() {
       ID: "DP",
     },
     {
-      username: "rick.neufeld@upperjamestoyota.ca",
-      password: "rneufeld005",
-      firstName: "Rick",
-      lastName: "Neufeld",
-      position: "Sales Person",
-      ID: "RN",
-    },
-    {
       username: "marco.perrelli@redhilltoyota.ca",
       password: "mperrelli009",
       firstName: "Marco",
@@ -135,13 +127,13 @@ function App() {
         <>
           <h1 className="app-heading">etaBuddy</h1>
           <div className="last-modified">
-            Updated on September 17th 2024. Powered by Sorbet Solutions. 🍧
+            Updated on September 18th 2024. Powered by Sorbet Solutions. 🍧
           </div>
           <DataTable data={data} />
           <br />
           <h1 className="app-heading">orderBuddy</h1>
           <div className="last-modified">
-            Updated on September 17th 2024. Powered by Sorbet Solutions. 🍧
+            Updated on September 18th 2024. Powered by Sorbet Solutions. 🍧
           </div>
           <DataTable2 userSalespersonID={loggedInUserID} />
           <br />
