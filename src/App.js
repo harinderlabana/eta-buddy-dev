@@ -102,6 +102,14 @@ function App() {
       position: "Sales Person",
       ID: "GZ",
     },
+    {
+      username: "nicolas.thompson@redhilltoyota.ca",
+      password: "nthompson005",
+      firstName: "Nicolas",
+      lastName: "Thompson",
+      position: "Sales Person",
+      ID: "NT",
+    },
   ];
 
   const handleLogin = (username, password) => {
