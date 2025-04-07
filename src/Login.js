@@ -1,44 +1,27 @@
-import React, { useState } from 'react';
-import './Login.css'; // Import the custom CSS file
+import React, { useState } from "react";
+import "./Login.css"; // Import the custom CSS file
 
 function Login({ onLogin }) {
-  const [username, setUsername] = useState('');
-  const [password, setPassword] = useState('');
+  const [username, setUsername] = useState("");
+  const [password, setPassword] = useState("");
 
-  const handleSubmit = e => {
+  const handleSubmit = (e) => {
     e.preventDefault();
     onLogin(username, password);
   };
 
   return (
     <div className="login-container">
-        <h1 className="app-heading">etaBuddy</h1>
-        <div className="powered-by">Powered by Sorbet Solutions. 🍧</div>
-      <form onSubmit={handleSubmit}>
-        <div>
-          <label htmlFor="username">Username: </label>
-          <input
-            type="email"
-            id="username"
-            value={username}
-            onChange={e => setUsername(e.target.value)}
-            required
-          />
-        </div>
-        <br></br>
-        <div>
-          <label htmlFor="password">Password: </label>
-          <input
-            type="password"
-            id="password"
-            value={password}
-            onChange={e => setPassword(e.target.value)}
-            required
-          />
-        </div>
-        <br></br>
-        <button type="submit">Login</button>
-      </form>
+      <h3>
+        Thank you all for using this app. etaBuddy has been a passion project of
+        mine and I have learned alot about the customer and user experience
+        while building it. I am looking forward to moving my resources to other
+        projects and interests. If this is a tool you appreciated and valued the
+        use of contact your leaders and inquire about subscription services.
+        This will aid in supporting me to keep the app alive and updated as
+        development time, servers and costs are valuable and limited. Thank you,
+        Sunny Labana.
+      </h3>
     </div>
   );
 }
